@@ -1,6 +1,6 @@
 ---
 title: "Instagram Stories: Strategy of Being Good Enough"
-date: 2019-03-24T15:45:06+08:00
+date: 2017-01-21T15:45:06+08:00
 draft: false
 ---
 
