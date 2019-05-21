@@ -1,7 +1,6 @@
 ---
 title: "Accelerate Your Team with Continuous Delivery"
 date: 2019-05-20T15:08:10-07:00
-draft: true
 ---
 
 ![Accelerate](/accelerate-cover.jpg)
