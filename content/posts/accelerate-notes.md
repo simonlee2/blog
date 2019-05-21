@@ -5,7 +5,7 @@ date: 2019-05-20T15:08:10-07:00
 
 ![Accelerate](/accelerate-cover.jpg)
 
-In _[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM)_, the Nicole Forsgren, Jez Humble, and Gene Kim present the methods and results of their four-year research program. They have identified 24 key capabilities that drive improvement in software delivery performance and, in turn, organizational performance. 
+In _[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM)_, Nicole Forsgren, Jez Humble, and Gene Kim present the methods and results of their four-year research program. They have identified 24 key capabilities that drive improvement in software delivery performance and, in turn, organizational performance. 
 
 They've classified these capabilities into five categories:
 
